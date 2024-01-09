@@ -37,7 +37,7 @@ public class Picture
             window.changeColor("black");
             window.moveHorizontal(-120);
             window.moveVertical(40);
-            window.changeSize(40);
+            window.changeSize(80);
             window.makeVisible();
 
             roof.changeSize(60, 180);
