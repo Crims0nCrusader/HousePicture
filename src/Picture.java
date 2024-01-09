@@ -30,7 +30,7 @@ public class Picture
     {
         if(!drawn) {
             wall.moveHorizontal(-140);
-            wall.moveVertical(20);
+            wall.moveVertical(30);
             wall.changeSize(120);
             wall.makeVisible();
 
